@@ -1,2 +1,2 @@
 # robux-generator
-if this app asks for any of your info, put something FAKE in it. it doesn't send anything anywhere, and you can check the code to make sure.
+this app generators a totally legit amount of robux! it doesn't ask for any confidential info except for your username and password, but it's not open ended and just has a bunch of random ones.

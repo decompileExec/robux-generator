@@ -1,0 +1,25 @@
+{
+  "name": "robux-generator",
+  "version": "0.0.1",
+  "description": "a fake robux generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decompileExec/robux-generator.git"
+  },
+  "author": "SusBernie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/decompileExec/robux-generator/issues"
+  },
+  "homepage": "https://github.com/decompileExec/robux-generator#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^8.2.2",
+    "nanospinner": "^1.0.0"
+  },
+  "type": "module"
+}
