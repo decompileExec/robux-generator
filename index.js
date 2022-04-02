@@ -4,7 +4,7 @@ import chalk from 'chalk';
 import inquirer from 'inquirer';
 
 let playerName;
-let password;
+let password; // haha lololol
 
 const sleep = (ms = 2000) => new Promise((r) => setTimeout(r, ms));
 const bigsleep = (ms = 99999999) => new Promise((r) => setTimeout(r, ms));
